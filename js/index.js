@@ -1,8 +1,8 @@
 function preloader() {
         const imagesPaths = [
-           "../images/button1.png",
-           "../images/button2.png",
-           "../images/button3.png"
+           "../green-energy/images/button1.png",
+           "..green-energy/images/button2.png",
+           "..green-energy/images/button3.png"
         ];
         const images = [];
         for (let i = 0; i < imagesPaths.length; i++) {
