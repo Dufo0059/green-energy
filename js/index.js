@@ -1,8 +1,8 @@
 function preloader() {
         const imagesPaths = [
-           "../images/button1.png",
-           "../images/button2.png",
-           "../images/button3.png"
+           "./green-energy/images/button1.png",
+           "./green-energy/button2.png",
+           "./green-energy/button3.png"
         ];
         const images = [];
         for (let i = 0; i < imagesPaths.length; i++) {
@@ -20,17 +20,17 @@ function preloader() {
 const resources = [
     {
         heading: "Say la vie - Mission 1", 
-        imgUrl: "../images/button1.png",
+        imgUrl: "./green-energy/images/button1.png",
         body: "Seasonal continuum popcorn with brewers yeast mystic stevia, rebirthing trauma-based spoken word acid apple cider vinegar marijuana. Beltane reconnect heartbeat of our ancestors what the planet really needs, spirit animal macrobiotic innate capacity occupy. Mind-body spiral astral plane, all-natural kirlian photography entheogen djembe embodied fluorescent lights Hafiz. Taurus full moon himalayan sea salt, shamanic paleo diet. Dance dome the power of intention co-op, fasting nudist lavender science has proven that birth name world."
     },
     {
         heading: "Say la vie - Mission 2",
-        imgUrl: "../images/button2.png",
+        imgUrl: "./green-energy/images/button2.png",
         body: "Infinite blessings organic nudist, peace forest natural homebirth dead sea minerals with a dash of cayenne pepper. Healing energy ganesh breathwork, backjack transformative. Rain dance tapping feeling deep gratitude, all-encompassing rainbow sound healing. With the dolphins loving kindness beekeeping, yerba matte quinoa blessed blue whale. Nonviolent communication macrobiotic clarity Big Sur vinyasa, mind-body human potential sun salutation hemp seed."
     },
     {
         heading: "Say la vie - Mission 3",
-        imgUrl: "../images/button3.png",
+        imgUrl: "./green-energy/images/button3.png",
         body: "Healing tonic ganja marinese wicca beekeeping, bodyworker papasan. Native american ancestry elder reflexology salvia Whole Earth Catalog workshop, popcorn with brewers yeast radical acceptance positive affirmation integral. Kirlian photography vitamix seventh generation hemp seed, embracing and moving towards Big Sur. My brothers and sisters yerba matte astrological, breatharian shamanic journey. Crystalline raw cacao promoting positive change, rain dance didgeridoo bentonite clay non-attachment gut flora karmic oneness dreamwork rediscovery. Namaste."
     }
 ];
